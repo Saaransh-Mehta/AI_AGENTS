@@ -1,0 +1,12 @@
+Task List:
+
+1. Research and validate startup ideas for web solutions and esports creator-brand matchmaking.
+2. Design landing page wireframes for the web agency using Figma.
+3. Set up GitHub repositories for both startup projects.
+4. Build MVP for esports sponsorship matchmaking platform.
+5. Create a personal portfolio website showcasing past projects.
+6. Study React Native core components and navigation basics.
+7. Learn and practice Docker: write Dockerfile and docker-compose for portfolio.
+8. Write a blog post about learning journey as a solo college indie dev.
+9. Set up a basic CI/CD pipeline using GitHub Actions for automated deployment.
+10. Reach out to potential collaborators or creators for early feedback on startup ideas.
